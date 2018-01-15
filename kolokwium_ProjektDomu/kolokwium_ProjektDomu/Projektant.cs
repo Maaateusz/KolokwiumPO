@@ -29,7 +29,6 @@ namespace kolokwium_ProjektDomu
 
         public void BudowaBloku()
         {
-            Blok blok = new Blok();
             string rodzaj_okien;
             string rodzaj_drzwi;
             string kolor;
@@ -48,6 +47,7 @@ namespace kolokwium_ProjektDomu
             catch
             {
                 kolorEnum = Kolor.Niebieski;
+                Console.WriteLine("Nie rozpoznano koloru!");
             }
             Buduj(rodzaj_okien, rodzaj_drzwi, kolorEnum);
             Console.WriteLine("Budowa została zakończona pomyślnie.");
@@ -74,6 +74,7 @@ namespace kolokwium_ProjektDomu
             catch
             {
                 kolorEnum = Kolor.Niebieski;
+                Console.WriteLine("Nie rozpoznano koloru!");
             }
             Buduj(rodzaj_okien, rodzaj_drzwi, kolorEnum);
             Console.WriteLine("Budowa została zakończona pomyślnie.");
