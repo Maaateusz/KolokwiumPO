@@ -1,0 +1,5 @@
+D:\MS\kolokwium_ProjektDomu\kolokwium_ProjektDomu\bin\Debug\kolokwium_ProjektDomu.exe
+D:\MS\kolokwium_ProjektDomu\kolokwium_ProjektDomu\bin\Debug\kolokwium_ProjektDomu.pdb
+D:\MS\kolokwium_ProjektDomu\kolokwium_ProjektDomu\obj\Debug\kolokwium_ProjektDomu.csprojResolveAssemblyReference.cache
+D:\MS\kolokwium_ProjektDomu\kolokwium_ProjektDomu\obj\Debug\kolokwium_ProjektDomu.exe
+D:\MS\kolokwium_ProjektDomu\kolokwium_ProjektDomu\obj\Debug\kolokwium_ProjektDomu.pdb
